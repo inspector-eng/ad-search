@@ -3,7 +3,9 @@
 ## SSO Site with Search
 - [LinkedIn](https://www.linkedin.com/)
 - [Workable - profile](https://jobs.workable.com/profile/my-profile)
-- [Workable - software](https://jobs.workable.com/search?query=software&location=United+State&workplace=remote)
+- [Workable - machine learning](https://jobs.workable.com/search?query=machine+learning&location=United+State&workplace=remote)
+- [Workable - data science](https://jobs.workable.com/search?query=data+science&location=United+State&workplace=remote)
+- [Workable - data engineer](https://jobs.workable.com/search?query=data+engineer&location=United+State&workplace=remote)
 - [Career Builder](https://www.careerbuilder.com/jobs?company_request=false&company_name=&company_id=&posted=&pay=&radius=30&emp=&cb_apply=true&cb_workhome=remote&keywords=Software+Engineer)
 - [GlassDoor](https://www.glassdoor.com/Job/remote-us-full-stack-jobs-SRCH_IL.0,9_IS11047_KO10,20.htm?applicationType=1&remoteWorkType=1&fromAge=3)
 ## View Site
