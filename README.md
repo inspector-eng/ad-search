@@ -1,8 +1,8 @@
 # ad-search
 
 ## SSO Site with Search
-- [LinkedIn](https://www.linkedin.com/)
-- [Workable - profile](https://jobs.workable.com/profile/my-profile)
+- ***[LinkedIn](https://www.linkedin.com/)***
+- ***[Workable - profile](https://jobs.workable.com/profile/my-profile)***
 - [Workable - machine learning](https://jobs.workable.com/search?query=machine+learning&location=United+State&workplace=remote)
 - [Workable - data science](https://jobs.workable.com/search?query=data+science&location=United+State&workplace=remote)
 - [Workable - data engineer](https://jobs.workable.com/search?query=data+engineer&location=United+State&workplace=remote)
