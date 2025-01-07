@@ -7,7 +7,9 @@
 - [Workable - data science](https://jobs.workable.com/search?query=data+science&location=United+State&workplace=remote&day_range=30)
 - [Workable - data engineer](https://jobs.workable.com/search?query=data+engineer&location=United+State&workplace=remote&day_range=30)
 - [Workable - python](https://jobs.workable.com/search?query=python&location=United+State&workplace=remote&day_range=30)
-- [Career Builder](https://www.careerbuilder.com/jobs?company_request=false&company_name=&company_id=&posted=&pay=&radius=30&emp=&cb_apply=true&cb_workhome=remote&keywords=Software+Engineer)
+- ***[Career Builder - profile](https://www.careerbuilder.com/myprofile)***
+- [Career Builder](https://www.careerbuilder.com/jobs?company_request=false&company_name=&company_id=&posted=&pay=&radius=30&emp=&cb_apply=true&cb_workhome=remote&keywords=Machine+Learning)
+- ***[GlassDoor - profile](https://www.careerbuilder.com/myprofile)***
 - [GlassDoor](https://www.glassdoor.com/Job/remote-us-full-stack-jobs-SRCH_IL.0,9_IS11047_KO10,20.htm?applicationType=1&remoteWorkType=1&fromAge=3)
 ## View Site
 - [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
