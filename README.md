@@ -14,6 +14,20 @@
 - [GlassDoor - machine learning](https://www.glassdoor.com/Job/remote-us-machine-learning-engineer-jobs-SRCH_IL.0,9_IS11047_KO10,20.htm?applicationType=1&remoteWorkType=1&fromAge=3)
 - [GlassDoor - data scientist](https://www.glassdoor.com/Job/remote-us-data-scientist-jobs-SRCH_IL.0,9_IS11047_KO10,20.htm?applicationType=1&remoteWorkType=1&fromAge=3)
 - [Glassdoor - software engineer](https://www.glassdoor.com/Job/remote-software-engineer-jobs-SRCH_IL.0,6_IS11047_KO7,24.htm?applicationType=1&remoteWorkType=1&fromAge=7)
+- ***[Dice - profile](https://www.dice.com/dashboard/profiles)***
+- [Dice - machine learning](https://www.dice.com/jobs?q=machine%20learning&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.postedDate=SEVEN&filters.workplaceTypes=Remote&filters.easyApply=true&language=en)
+- [Dice - data science](https://www.dice.com/jobs?q=data%20science&countryCode=US&radius=30&radiusUnit=mi&page=1&pageSize=20&filters.postedDate=SEVEN&filters.workplaceTypes=Remote&filters.easyApply=true&language=en)
+- ***[Builtin - profile](https://builtin.com/profile/edit)***
+- [Builtin - saved items](https://builtin.com/home/jobs/saved)
+- [Builtin - machine learning](https://builtin.com/jobs/remote?search=machine+learning&daysSinceUpdated=30&country=USA)
+- ***[Ziprecruiter - profile](https://www.ziprecruiter.com/profile/)***
+- [Ziprecruiter - machine learning](https://www.ziprecruiter.com/profile/)
+- ***[Monster - profile](https://www.monster.com/profile/detail)***
+- ***[AQUENT - profile](https://my.aquent.com/mat/myaquent/profile)***
+- ***[Talent Pair - profile](https://app.talentpair.com/665854/profile)***
+- [Talent Pair - jobs](https://jobs.talentpair.com/)
+
+
 ## View Site
 - [Google Search](https://www.google.com/search?q=today+posted+remote+javascript+engineer+position&rciv=jb&clksrc=alertsemail&hl=en&gl=US&udm=8&jbr=sep:0)
 - [Career Vault - maching learning](https://careervault.io/remote/data/machine-learning-engineer)
